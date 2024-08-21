@@ -11,7 +11,7 @@
 ## Installation
 ### Git Clone
 ``` 
-git clone https://github.com/Nafis71/task_manager.git
+git clone https://github.com/abdulhalim447/task_manager_with_getX.git
 ```
 ### Flutter Version Management
 ``` 
@@ -135,4 +135,4 @@ Maintain an organized task list for optimal productivity.
 
 <p align="justify">This task manager app is ideal for individuals seeking a convenient and secure solution to manage their to-dos, from students juggling busy schedules to professionals prioritizing projects.</p>
 <br />
-Made by - Nafis Hasan Tonmoy
+Made by - Developer Abdul Halim
